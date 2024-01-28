@@ -1,0 +1,2600 @@
+[
+    {
+        "id": "com.barraider.soundpad",
+        "name": "Soundpad Integration",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "1.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.soundpad/1.6/com.barraider.soundpad.streamDeckPlugin"
+    },
+    {
+        "id": "net.telestream.wirecast",
+        "name": "Wirecast Plugin",
+        "author": "Telestream Inc.",
+        "link": "https://www.telestream.net",
+        "version": "1.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.telestream.wirecast/1.4/net.telestream.wirecast.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.delayedtext",
+        "name": "Delayed Text Input",
+        "author": "BarRaider",
+        "link": "https://github.com/BarRaider/streamdeck-delayedtext",
+        "version": "1.01",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.delayedtext/1.01/com.barraider.delayedtext.streamDeckPlugin"
+    },
+    {
+        "id": "com.baptiewright.nanoleaf",
+        "name": "Nanoleaf Controller",
+        "author": "Baptiewright Designs",
+        "link": "http://www.baptiewright.com",
+        "version": "1.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.baptiewright.nanoleaf/1.4/com.baptiewright.nanoleaf.streamDeckPlugin"
+    },
+    {
+        "id": "de.kaleidox.vbandeck",
+        "name": "VBANDeck",
+        "author": "Kaleidox",
+        "link": "https://github.com/burdoto/VBAN-StreamDeck-Plugin",
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.kaleidox.vbandeck/1.0.2/de.kaleidox.vbandeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.analogclock",
+        "name": "Analog Clock",
+        "author": "Elgato",
+        "link": "https://developer.elgato.com",
+        "version": "2.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.analogclock/2.0.0/com.elgato.analogclock.streamDeckPlugin"
+    },
+    {
+        "id": "org.soundflow.streamdeck",
+        "name": "SoundFlow",
+        "author": "SoundFlow",
+        "link": "https://soundflow.org/landing/streamdeck-plugin",
+        "version": "3.7.0.8567",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/org.soundflow.streamdeck/3.7.0.8567/org.soundflow.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.counter",
+        "name": "Counter",
+        "author": "Elgato",
+        "link": "https://developer.elgato.com",
+        "version": "1.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.counter/1.4/com.elgato.counter.streamDeckPlugin"
+    },
+    {
+        "id": "com.iccms.sport-in-the-box",
+        "name": "Sport In The Box",
+        "author": "IC Control Media & Sport",
+        "link": "https://sportinthebox.com",
+        "version": "3.4.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.iccms.sport-in-the-box/3.4.0/com.iccms.sport-in-the-box.streamDeckPlugin"
+    },
+    {
+        "id": "com.nicollasr.streamdeckvs",
+        "name": "Visual Studio",
+        "author": "Nicollas R.",
+        "link": "https://github.com/nicollasricas/streamdeckvs",
+        "version": "3.3.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nicollasr.streamdeckvs/3.3.3/com.nicollasr.streamdeckvs.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.4kcu",
+        "name": "4K Capture Utility",
+        "author": "Elgato",
+        "link": "https://www.elgato.com",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.4kcu/1.3/com.elgato.4kcu.streamDeckPlugin"
+    },
+    {
+        "id": "io.bitfocus.companion-plugin",
+        "name": "Companion button",
+        "author": "Bitfocus AS",
+        "link": "https://bitfocus.io/companion/",
+        "version": "2.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.bitfocus.companion-plugin/2.2.0/io.bitfocus.companion-plugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.newblue.titlerlive",
+        "name": "Titler Live",
+        "author": "NewBlue",
+        "link": "https://newbluefx.com/products/titler-live/",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.newblue.titlerlive/1.1.0/com.newblue.titlerlive.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.cpu",
+        "name": "CPU",
+        "author": "Elgato",
+        "link": "https://developer.elgato.com",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.cpu/1.3/com.elgato.cpu.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.blacklist",
+        "name": "Blacklist",
+        "author": "Elgato",
+        "link": "https://www.elgato.com"
+    },
+    {
+        "id": "com.elgato.memorygame",
+        "name": "Memory Game",
+        "author": "Elgato",
+        "link": "https://developer.elgato.com",
+        "version": "1.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.memorygame/1.4/com.elgato.memorygame.streamDeckPlugin"
+    },
+    {
+        "id": "fail.marc.onairclock",
+        "name": "On Air Clock",
+        "author": "Marc Herrmann",
+        "link": "https://github.com/wortkrieg/streamdeck-onairclock",
+        "version": "1.1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/fail.marc.onairclock/1.1.1/fail.marc.onairclock.streamDeckPlugin"
+    },
+    {
+        "id": "com.nicollasr.streamdeckvsc",
+        "name": "Visual Studio Code",
+        "author": "Nicollas R.",
+        "link": "https://github.com/nicollasricas/streamdeckvsc",
+        "version": "5.1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nicollasr.streamdeckvsc/5.1.3/com.nicollasr.streamdeckvsc.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.reactiondeck",
+        "name": "Reaction Deck",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.reactiondeck/1.0.0/com.elgato.reactiondeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.streamcounter",
+        "name": "Stream Counter",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.streamcounter/1.8/com.barraider.streamcounter.streamDeckPlugin"
+    },
+    {
+        "id": "com.tipeeestream.actions",
+        "name": "TipeeeStream",
+        "author": "TipeeeStream",
+        "link": "https://www.tipeeestream.com/",
+        "version": "1.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.tipeeestream.actions/1.0.3/com.tipeeestream.actions.streamDeckPlugin"
+    },
+    {
+        "id": "com.reedhaffner.sharex",
+        "name": "ShareX",
+        "author": "Reed Haffner",
+        "link": "https://reedhaffner.com/",
+        "version": "1.3.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.reedhaffner.sharex/1.3.1/com.reedhaffner.sharex.streamDeckPlugin"
+    },
+    {
+        "id": "com.stairways.keyboardmaestro",
+        "name": "Keyboard Maestro",
+        "author": "Stairways Software",
+        "link": "https://www.keyboardmaestro.com/",
+        "version": "9.0.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.stairways.keyboardmaestro/9.0.4/com.stairways.keyboardmaestro.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.advancedlauncher",
+        "name": "Advanced Launcher",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.advancedlauncher/1.8/com.barraider.advancedlauncher.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.textfiletools",
+        "name": "Text File Tools",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "1.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.textfiletools/1.4/com.barraider.textfiletools.streamDeckPlugin"
+    },
+    {
+        "id": "de.tobimori.streamdeck.ifttt",
+        "name": "IFTTT",
+        "author": "tobimori",
+        "link": "https://moeritz.cc",
+        "version": "2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.tobimori.streamdeck.ifttt/2.0/de.tobimori.streamdeck.ifttt.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.games",
+        "name": "Stream Deck Games",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.7",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.games/1.7/com.barraider.games.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.minecraft",
+        "name": "Minecraft Stats",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.minecraft/1.3/com.barraider.minecraft.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.windowsmover",
+        "name": "Windows Mover & Resizer",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "2.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.windowsmover/2.5/com.barraider.windowsmover.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.obstools",
+        "name": "OBS Tools",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "3.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.obstools/3.2/com.barraider.obstools.streamDeckPlugin"
+    },
+    {
+        "id": "com.newblue.stretchcast",
+        "name": "Presto StretchCast",
+        "author": "NewBlue",
+        "link": "https://www.newbluefx.com",
+        "version": "1.3.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.newblue.stretchcast/1.3.3/com.newblue.stretchcast.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.voicemeeter",
+        "name": "VoiceMeeter Integration",
+        "author": "BarRaider",
+        "link": "https://github.com/BarRaider/streamdeck-voicemeeter",
+        "version": "2.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.voicemeeter/2.2/com.barraider.voicemeeter.streamDeckPlugin"
+    },
+    {
+        "id": "com.ecamm.ecammliveplugin",
+        "name": "Ecamm Live",
+        "author": "Ecamm Network",
+        "link": "https://www.ecamm.com/mac/ecammlive/",
+        "version": "4.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.ecamm.ecammliveplugin/4.3/com.ecamm.ecammliveplugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.newblue.ovrstream",
+        "name": "OvrStream",
+        "author": "NewBlue",
+        "link": "https://www.ovrstream.com/",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.newblue.ovrstream/1.2/com.newblue.ovrstream.streamDeckPlugin"
+    },
+    {
+        "id": "com.dahnandpartners.btcticker",
+        "name": "BTC Ticker",
+        "author": "Florian Zevedei",
+        "link": null,
+        "version": "1.6.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dahnandpartners.btcticker/1.6.0/com.dahnandpartners.btcticker.streamDeckPlugin"
+    },
+    {
+        "id": "me.hckr.airplanemode",
+        "name": "Airplane mode",
+        "author": "Jarno Le Conté",
+        "link": "https://github.com/JarnoLeConte/streamdeck-airplanemode",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/me.hckr.airplanemode/1.0/me.hckr.airplanemode.streamDeckPlugin"
+    },
+    {
+        "id": "io.moeritz.streamdeck.toggl",
+        "name": "Toggl",
+        "author": "tobimori",
+        "link": "https://moeritz.io",
+        "version": "1.4.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.moeritz.streamdeck.toggl/1.4.1/io.moeritz.streamdeck.toggl.streamDeckPlugin"
+    },
+    {
+        "id": "me.hckr.appswitcher",
+        "name": "App Switcher",
+        "author": "Jarno Le Conté",
+        "link": "https://github.com/JarnoLeConte/streamdeck-appswitcher",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/me.hckr.appswitcher/1.0.1/me.hckr.appswitcher.streamDeckPlugin"
+    },
+    {
+        "id": "me.hckr.findertags",
+        "name": "Finder Tags",
+        "author": "Jarno Le Conté",
+        "link": "https://github.com/JarnoLeConte/streamdeck-findertags",
+        "version": "1.1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/me.hckr.findertags/1.1.1/me.hckr.findertags.streamDeckPlugin"
+    },
+    {
+        "id": "com.cloudcastsystems.remoteplay",
+        "name": "RemotePlay",
+        "author": "cloudcastsystems",
+        "link": "http://www.cloudcastsystems.com.au",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.cloudcastsystems.remoteplay/1.0/com.cloudcastsystems.remotepla.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.streamcountdowntimer",
+        "name": "Stream Countdown Timer",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.streamcountdowntimer/1.8/com.barraider.streamcountdo.streamDeckPlugin"
+    },
+    {
+        "id": "com.exension.hwinfo",
+        "name": "HWiNFO",
+        "author": "exension",
+        "link": "https://github.com/exension/hwinfo-streamdeck",
+        "version": "2.0.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.exension.hwinfo/2.0.5/com.exension.hwinfo.streamDeckPlugin"
+    },
+    {
+        "id": "com.zergo0.teamspeak3integration",
+        "name": "TeamSpeak 3 Integration",
+        "author": "ZerGo0",
+        "link": "https://github.com/ZerGo0",
+        "version": "1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.zergo0.teamspeak3integration/1.8/com.zergo0.teamspeak3integrat.streamDeckPlugin"
+    },
+    {
+        "id": "de.shells.totalmix",
+        "name": "RME TotalMix FX",
+        "author": "shells",
+        "link": "https://github.com/shells-dw/streamdeck-totalmix",
+        "version": "3.2.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.shells.totalmix/3.2.2/de.shells.totalmix.streamDeckPlugin"
+    },
+    {
+        "id": "se.trevligaspel.cubase",
+        "name": "Cubase",
+        "author": "Trevliga Spel",
+        "link": "https://trevligaspel.se/streamdeck/cubase/index.html",
+        "version": "2.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/se.trevligaspel.cubase/2.0.2/se.trevligaspel.cubase.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.shadowplay",
+        "name": "ShadowPlay",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.shadowplay/1.5/com.barraider.shadowplay.streamDeckPlugin"
+    },
+    {
+        "id": "com.ilifesmart.cololight",
+        "name": "Cololight",
+        "author": "LifeSmart",
+        "link": "http://www.ilifesmart.com/",
+        "version": "1.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.ilifesmart.cololight/1.0.3/com.ilifesmart.cololight.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.stockticker",
+        "name": "Stock Ticker",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "1.9",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.stockticker/1.9/com.barraider.stockticker.streamDeckPlugin"
+    },
+    {
+        "id": "com.viddie.dice",
+        "name": "Dice",
+        "author": "viddie",
+        "link": "https://github.com/viddie/sdDice",
+        "version": "1.0.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.viddie.dice/1.0.4/com.viddie.dice.streamDeckPlugin"
+    },
+    {
+        "id": "com.mixitup.streamdeckplugin",
+        "name": "Mix It Up",
+        "author": "Mix It Up",
+        "link": "https://mixitupapp.com/",
+        "version": "4.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mixitup.streamdeckplugin/4.2.0/com.mixitup.streamdeckplugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.keycreator",
+        "name": "KeyCreator",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "2.0.0.135",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.keycreator/2.0.0.135/com.elgato.keycreator.streamDeckPlugin"
+    },
+    {
+        "id": "se.trevligaspel.midi",
+        "name": "Midi",
+        "author": "Trevliga Spel",
+        "link": "https://trevligaspel.se/streamdeck/midi/index.html",
+        "version": "3.5.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/se.trevligaspel.midi/3.5.3/se.trevligaspel.midi.streamDeckPlugin"
+    },
+    {
+        "id": "network.workflow.livetime",
+        "name": "Live Time",
+        "author": "Workflow Network",
+        "link": "https://workflow.network",
+        "version": "1.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/network.workflow.livetime/1.0.3/network.workflow.livetime.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.audiometer",
+        "name": "Audio Meter",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.audiometer/1.2/com.barraider.audiometer.streamDeckPlugin"
+    },
+    {
+        "id": "com.lumiacove.stream",
+        "name": "Lumia Stream",
+        "author": "Lumia Stream",
+        "link": "https://lumiastream.com/products/streamdeck",
+        "version": "2.6.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.lumiacove.stream/2.6.1/com.lumiacove.stream.streamDeckPlugin"
+    },
+    {
+        "id": "com.fredemmott.audiooutputswitch",
+        "name": "Audio Switcher",
+        "author": "Fred Emmott",
+        "link": "https://go.fredemmott.com/streamdeck-audioswitcher",
+        "version": "3.1.3.66",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.fredemmott.audiooutputswitch/3.1.3.66/com.fredemmott.audiooutp.streamDeckPlugin"
+    },
+    {
+        "id": "com.streamelements.obslive",
+        "name": "StreamElements SE.Live",
+        "author": "StreamElements",
+        "link": "https://strms.net/obslivestreamdeck",
+        "version": "22.6.21.87",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.streamelements.obslive/22.6.21.87/com.streamelements.obslive.streamDeckPlugin"
+    },
+    {
+        "id": "com.nicollasr.streamdeckvsc.mac",
+        "name": "Visual Studio Code Mac",
+        "author": "Nicollas R.",
+        "link": "https://github.com/nicollasricas/streamdeckvsc",
+        "version": "5.1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nicollasr.streamdeckvsc.mac/5.1.3/com.nicollasr.streamdeckvsc..streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.disco",
+        "name": "Disco Visual Effects",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.disco/1.1/com.barraider.disco.streamDeckPlugin"
+    },
+    {
+        "id": "com.nicollasr.streamdeckunity",
+        "name": "Unity",
+        "author": "Nicollas R.",
+        "link": "https://github.com/nicollasricas/streamdeck-unity",
+        "version": "2.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nicollasr.streamdeckunity/2.0.1/com.nicollasr.streamdeckunity.streamDeckPlugin"
+    },
+    {
+        "id": "co.uk.clarionmusic.midibutton",
+        "name": "Midi Button",
+        "author": "Tom Kelly",
+        "link": null,
+        "version": "1.07",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/co.uk.clarionmusic.midibutton/1.07/co.uk.clarionmusic.midibutton.streamDeckPlugin"
+    },
+    {
+        "id": "com.fredemmott.streamingremote",
+        "name": "Streaming Remote",
+        "author": "Fred Emmott",
+        "link": "https://github.com/fredemmott/streaming-remote/",
+        "version": "2.2.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.fredemmott.streamingremote/2.2.1/com.fredemmott.streamingremot.streamDeckPlugin"
+    },
+    {
+        "id": "com.animapix.oscremote",
+        "name": "OSC Remote",
+        "author": "Animapix",
+        "link": null,
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.animapix.oscremote/1.0.2/com.animapix.oscremote.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.battery",
+        "name": "Battery",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "1.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.battery/1.6/com.barraider.battery.streamDeckPlugin"
+    },
+    {
+        "id": "dev.santiagomartin.devops",
+        "name": "DevOps for StreamDeck",
+        "author": "SantiMA10",
+        "link": "https://santiagomartin.dev",
+        "version": "1.7.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.santiagomartin.devops/1.7.0/dev.santiagomartin.devops.streamDeckPlugin"
+    },
+    {
+        "id": "co.abetterhome.lighterstreamdeck",
+        "name": "Lighter for Philips Hue",
+        "author": "A Better Home LLC",
+        "link": "https://abetterhome.co/",
+        "version": "1.1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/co.abetterhome.lighterstreamdeck/1.1.5/co.abetterhome.lighterstrea.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.apininja",
+        "name": "API Ninja",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.apininja/1.3/com.barraider.apininja.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.twitchtools",
+        "name": "Twitch Tools",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "3.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.twitchtools/3.2/com.barraider.twitchtools.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.facebook",
+        "name": "Facebook",
+        "author": "Elgato",
+        "link": "https://www.facebook.com/gaming/",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.facebook/1.0.1/com.elgato.facebook.streamDeckPlugin"
+    },
+    {
+        "id": "com.medialooks.directtake",
+        "name": "Direct Take Recording",
+        "author": "Medialooks",
+        "link": "https://medialooks.com/direct-take",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.medialooks.directtake/1.0/com.medialooks.directtake.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.keynote",
+        "name": "Keynote",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.keynote/1.1/com.elgato.keynote.streamDeckPlugin"
+    },
+    {
+        "id": "net.bliny.roon",
+        "name": "Roon",
+        "author": "Tomi Blinnikka",
+        "link": "https://bliny.net/streamdeck-roon/",
+        "version": "1.0.7",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.bliny.roon/1.0.7/net.bliny.roon.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.supermacro",
+        "name": "SuperMacro",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "2.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.supermacro/2.2/com.barraider.supermacro.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.worldtime",
+        "name": "World Time",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/",
+        "version": "2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.worldtime/2.0/com.barraider.worldtime.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.stopwatch",
+        "name": "Stopwatch",
+        "author": "BarRaider",
+        "link": "https://github.com/BarRaider/streamdeck-stopwatch",
+        "version": "1.7",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.stopwatch/1.7/com.barraider.stopwatch.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.spotify",
+        "name": "Spotify",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "1.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.spotify/1.0.3/com.elgato.spotify.streamDeckPlugin"
+    },
+    {
+        "id": "com.xsplit.gamecaster",
+        "name": "Gamecaster",
+        "author": "Gamecaster",
+        "link": "https://www.gamecaster.com/",
+        "version": "1.0.2106.2803",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.xsplit.gamecaster/1.0.2106.2803/com.xsplit.gamecaster.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.spotify",
+        "name": "Spotify Integration",
+        "author": "BarRaider",
+        "link": "https://barraider.github.io/spotify",
+        "version": "2.9.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.spotify/2.9.1/com.barraider.spotify.streamDeckPlugin"
+    },
+    {
+        "id": "com.dahnandpartners.ytticker",
+        "name": "Youtube Ticker",
+        "author": "Florian Zevedei",
+        "link": null,
+        "version": "2.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dahnandpartners.ytticker/2.1.0/com.dahnandpartners.ytticker.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.wintools",
+        "name": "Win Tools",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.wintools/1.8/com.barraider.wintools.streamDeckPlugin"
+    },
+    {
+        "id": "se.trevligaspel.nuendo",
+        "name": "Nuendo",
+        "author": "Trevliga Spel",
+        "link": "https://trevligaspel.se/streamdeck/nuendo/index.html",
+        "version": "2.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/se.trevligaspel.nuendo/2.0.2/se.trevligaspel.nuendo.streamDeckPlugin"
+    },
+    {
+        "id": "com.fredemmott.micmutetoggle",
+        "name": "Audio Mute",
+        "author": "Fred Emmott",
+        "link": "https://go.fredemmott.com/streamdeck-audiomute",
+        "version": "3.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.fredemmott.micmutetoggle/3.1.0/com.fredemmott.micmutetoggle.streamDeckPlugin"
+    },
+    {
+        "id": "se.sourcetech.keyboard",
+        "name": "4059EE Keyboard",
+        "author": "SourceTech AB",
+        "link": "https://www.sourcetech.se",
+        "version": "1.0.0.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/se.sourcetech.keyboard/1.0.0.5/se.sourcetech.keyboard.streamDeckPlugin"
+    },
+    {
+        "id": "ch.claudiobernasconi.youtubestats",
+        "name": "YouTube Channel Statistics",
+        "author": "Claudio Bernasconi",
+        "link": "https://github.com/claudiobernasconi/streamdeck-youtube",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/ch.claudiobernasconi.youtubestats/1.2/ch.claudiobernasconi.youtube.streamDeckPlugin"
+    },
+    {
+        "id": "tv.twitch.studio",
+        "name": "Twitch Studio",
+        "author": "Twitch",
+        "link": "https://www.twitch.tv/broadcast/studio",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/tv.twitch.studio/1.2/tv.twitch.studio.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.controlcenter",
+        "name": "Control Center",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/en/gaming/stream-deck",
+        "version": "1.9.3.274",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.controlcenter/1.9.3.274/com.elgato.controlcenter.streamDeckPlugin"
+    },
+    {
+        "id": "com.victorgrycuk.magnifier",
+        "name": "Magnifier",
+        "author": "Victor Grycuk",
+        "link": "https://github.com/VictorGrycuk/streamdeck-magnifier",
+        "version": "1.2.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.victorgrycuk.magnifier/1.2.2/com.victorgrycuk.magnifier.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.webcam",
+        "name": "Cam Control",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.webcam/1.2/com.barraider.webcam.streamDeckPlugin"
+    },
+    {
+        "id": "app.casthub.streamdeck",
+        "name": "CastHub",
+        "author": "CastHub Limited",
+        "link": "https://casthub.app",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/app.casthub.streamdeck/1.2.0/app.casthub.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.mitchmckean.mccontrol",
+        "name": "McControl",
+        "author": "Mitch McKean",
+        "link": "https://github.com/MitchMcKean/mccontrol",
+        "version": "0.7.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mitchmckean.mccontrol/0.7.2/com.mitchmckean.mccontrol.streamDeckPlugin"
+    },
+    {
+        "id": "com.courcelle.cryptoticker",
+        "name": "Crypto ticker PRO",
+        "author": "Vincent Courcelle",
+        "link": "https://github.com/tubededentifrice/streamdeck-crypto",
+        "version": "1.5.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.courcelle.cryptoticker/1.5.1/com.courcelle.cryptoticker.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.speedtest",
+        "name": "Speed Test",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.speedtest/1.3/com.barraider.speedtest.streamDeckPlugin"
+    },
+    {
+        "id": "com.adamcarballo.unity-integration",
+        "name": "Unity Integration",
+        "author": "Àdam Carballo",
+        "link": "https://f10.dev",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.adamcarballo.unity-integration/1.2.0/com.adamcarballo.unity-in.streamDeckPlugin"
+    },
+    {
+        "id": "com.victorgrycuk.colorpicker",
+        "name": "Color Picker",
+        "author": "Victor Grycuk",
+        "link": "https://github.com/VictorGrycuk/streamdeck-color-picker",
+        "version": "1.5.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.victorgrycuk.colorpicker/1.5.0/com.victorgrycuk.colorpicker.streamDeckPlugin"
+    },
+    {
+        "id": "com.mazecreator.udcontrol",
+        "name": "Universal Devices Control",
+        "author": "Greg Peatfield",
+        "link": "https://github.com/Mazecreator/udcontrol-streamdeck",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mazecreator.udcontrol/1.0.0/com.mazecreator.udcontrol.streamDeckPlugin"
+    },
+    {
+        "id": "com.xsplit.streamdeck",
+        "name": "XSplit Controller",
+        "author": "Splitmedialabs",
+        "link": "https://www.xsplit.com/",
+        "version": "1.2.2110.1501",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.xsplit.streamdeck/1.2.2110.1501/com.xsplit.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.rgpaul.vlc",
+        "name": "VLC Remote",
+        "author": "Ralph-Gordon Paul",
+        "link": "https://github.com/RGPaul/streamdeck-vlc",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.rgpaul.vlc/1.1.0/com.rgpaul.vlc.streamDeckPlugin"
+    },
+    {
+        "id": "dev.timeblaster.leaguedeck",
+        "name": "LeagueDeck",
+        "author": "TimeBlaster",
+        "link": "https://github.com/TimeBlaster/LeagueDeck",
+        "version": "2.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.timeblaster.leaguedeck/2.5/dev.timeblaster.leaguedeck.streamDeckPlugin"
+    },
+    {
+        "id": "dev.sean.lifx",
+        "name": "LIFX Control",
+        "author": "wwsean08",
+        "link": "https://sean.dev",
+        "version": "0.7.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.sean.lifx/0.7.1/dev.sean.lifx.streamDeckPlugin"
+    },
+    {
+        "id": "com.victorgrycuk.keepass",
+        "name": "StreamDeck-KeePass",
+        "author": "Victor Grycuk",
+        "link": "https://github.com/VictorGrycuk/StreamDeck-KeePass",
+        "version": "1.7.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.victorgrycuk.keepass/1.7.0/com.victorgrycuk.keepass.streamDeckPlugin"
+    },
+    {
+        "id": "net.voicemod.windowsdesktop",
+        "name": "Voicemod",
+        "author": "Voicemod S.L.",
+        "link": "http://www.voicemod.net",
+        "version": "5.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.voicemod.windowsdesktop/5.0.3/net.voicemod.windowsdesktop.streamDeckPlugin"
+    },
+    {
+        "id": "org.tynsoe.streamdeck.wsproxy",
+        "name": "WebSocket Proxy",
+        "author": "Yann Bizeul",
+        "link": null,
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/org.tynsoe.streamdeck.wsproxy/1.2.0/org.tynsoe.streamdeck.wsproxy.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.philips-hue",
+        "name": "Philips Hue",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "1.6.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.philips-hue/1.6.3/com.elgato.philips-hue.streamDeckPlugin"
+    },
+    {
+        "id": "fm.ultraschall.ultradeck",
+        "name": "Ultraschall",
+        "author": "Ultraschall",
+        "link": "https://ultraschall.fm",
+        "version": "1.2.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/fm.ultraschall.ultradeck/1.2.3/fm.ultraschall.ultradeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.streamlabs",
+        "name": "Streamlabs",
+        "author": "Elgato",
+        "link": "https://streamlabs.com",
+        "version": "1.5.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.streamlabs/1.5.1/com.elgato.streamlabs.streamDeckPlugin"
+    },
+    {
+        "id": "com.holotech.animazeplugin",
+        "name": "Animaze Plugin",
+        "author": "Holotech Studios",
+        "link": "https://store.steampowered.com/app/1364390/Animaze_by_FaceRig/",
+        "version": "1.08",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.holotech.animazeplugin/1.08/com.holotech.animazeplugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.eruben.vtspog",
+        "name": "VTS P.O.G.",
+        "author": "Eruben",
+        "link": "https://vtspog.com",
+        "version": "0.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.eruben.vtspog/0.0.1/com.eruben.vtspog.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.camlinkpro",
+        "name": "Cam Link Pro",
+        "author": "Elgato",
+        "link": "https://elgato.com",
+        "version": "1.0.0.175",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.camlinkpro/1.0.0.175/com.elgato.camlinkpro.streamDeckPlugin"
+    },
+    {
+        "id": "fun.shiro.ytmd",
+        "name": "YouTube Music Desktop Connector",
+        "author": "XeroxDev",
+        "link": "https://github.com/XeroxDev/YTMD-StreamDeck",
+        "version": "1.7.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/fun.shiro.ytmd/1.7.0/fun.shiro.ytmd.streamDeckPlugin"
+    },
+    {
+        "id": "com.jk.weather",
+        "name": "Weather",
+        "author": "Jaouher Kharrat",
+        "link": "https://github.com/JaouherK",
+        "version": "2.1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.jk.weather/2.1.2/com.jk.weather.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.momentsslideshow",
+        "name": "Moments Slideshow",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.momentsslideshow/1.1/com.vivremotion.momentsslides.streamDeckPlugin"
+    },
+    {
+        "id": "com.gabrielperales.osascript",
+        "name": "OSA Script",
+        "author": "Gabriel Perales",
+        "link": "https://github.com/gabrielperales/streamdeck-osascript",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.gabrielperales.osascript/1.0.0/com.gabrielperales.osascript.streamDeckPlugin"
+    },
+    {
+        "id": "com.naver.prism",
+        "name": "PRISM Live Studio",
+        "author": "NAVER Corp.",
+        "link": "https://prismlive.com/ko_kr/pcapp/",
+        "version": "1.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.naver.prism/1.0.3/com.naver.prism.streamDeckPlugin"
+    },
+    {
+        "id": "nl.nwrp.utils",
+        "name": "NowayRoleplay",
+        "author": "NowayRoleplay",
+        "link": "https://nowayroleplay.nl",
+        "version": "1.0.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/nl.nwrp.utils/1.0.5/nl.nwrp.utils.streamDeckPlugin"
+    },
+    {
+        "id": "com.refactor.cryptoticker",
+        "name": "Crypto Ticker",
+        "author": "Refactor Software Inc.",
+        "link": "http://refactor.ca",
+        "version": "1.6.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.refactor.cryptoticker/1.6.0/com.refactor.cryptoticker.streamDeckPlugin"
+    },
+    {
+        "id": "com.refactor.binance",
+        "name": "Binance Ticker",
+        "author": "Refactor Software Inc.",
+        "link": "http://refactor.ca",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.refactor.binance/1.1.0/com.refactor.binance.streamDeckPlugin"
+    },
+    {
+        "id": "com.nicollasr.streamdeckunity.mac",
+        "name": "Unity Mac",
+        "author": "Nicollas R.",
+        "link": "https://github.com/nicollasricas/streamdeck-unity",
+        "version": "2.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nicollasr.streamdeckunity.mac/2.0.1/com.nicollasr.streamdeckun.streamDeckPlugin"
+    },
+    {
+        "id": "com.exension.stocks",
+        "name": "Stocks",
+        "author": "exension",
+        "link": "https://github.com/exension/stock-ticker-stream-deck-plugin",
+        "version": "1.1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.exension.stocks/1.1.3/com.exension.stocks.streamDeckPlugin"
+    },
+    {
+        "id": "com.lostdomain.zoom",
+        "name": "Zoom Plugin",
+        "author": "Martijn Smit",
+        "link": "https://lostdomain.org/stream-deck-plugin-for-zoom/",
+        "version": "3.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.lostdomain.zoom/3.0/com.lostdomain.zoom.streamDeckPlugin"
+    },
+    {
+        "id": "com.pedrofuentes.ical",
+        "name": "iCal",
+        "author": "Pedro Fuentes",
+        "link": "https://github.com/pedrofuentes/stream-deck-ical#readme",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.pedrofuentes.ical/1.1.0/com.pedrofuentes.ical.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.applemail",
+        "name": "Apple Mail",
+        "author": "Elgato",
+        "link": "https://developer.elgato.com",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.applemail/1.5/com.elgato.applemail.streamDeckPlugin"
+    },
+    {
+        "id": "com.fish-bytes.camcontroller",
+        "name": "CamController",
+        "author": "FishBytes",
+        "link": "http://www.camcontroller.com",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.fish-bytes.camcontroller/1.5/com.fish-bytes.camcontroller.streamDeckPlugin"
+    },
+    {
+        "id": "com.streamcaptain.streamraiders",
+        "name": "Stream Raiders",
+        "author": "Stream Captain",
+        "link": "https://www.streamraiders.com/",
+        "version": "1.0.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.streamcaptain.streamraiders/1.0.6/com.streamcaptain.streamraid.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.youtube",
+        "name": "YouTube",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/en/gaming/stream-deck",
+        "version": "2.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.youtube/2.0.1/com.elgato.youtube.streamDeckPlugin"
+    },
+    {
+        "id": "com.davidborzek.foobar2000",
+        "name": "Foobar2000",
+        "author": "David Borzek",
+        "link": null,
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.davidborzek.foobar2000/1.5/com.davidborzek.foobar2000.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.sdscreensaver",
+        "name": "Advanced Screen Saver",
+        "author": "BarRaider",
+        "link": "https://BarRaider.com/",
+        "version": "2.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.sdscreensaver/2.4/com.barraider.sdscreensaver.streamDeckPlugin"
+    },
+    {
+        "id": "com.streamtools.webhooks",
+        "name": "Streamtools",
+        "author": "Streamtools",
+        "link": "https://streamtools.com",
+        "version": "1.0.28",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.streamtools.webhooks/1.0.28/com.streamtools.webhooks.streamDeckPlugin"
+    },
+    {
+        "id": "tech.flighttracker.streamdeck",
+        "name": "Flight Tracker",
+        "author": "By Hy, Pieter and rmroc451",
+        "link": "https://github.com/nguyenquyhy/Flight-Tracker-StreamDeck",
+        "version": "0.48",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/tech.flighttracker.streamdeck/0.48/tech.flighttracker.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.victorgrycuk.repositorywatcher",
+        "name": "Repository Watcher",
+        "author": "Victor Grycuk",
+        "link": "https://github.com/VictorGrycuk/streamdeck-repository-watcher",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.victorgrycuk.repositorywatcher/1.1/com.victorgrycuk.repository.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.twitch",
+        "name": "Twitch",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/en/gaming/stream-deck",
+        "version": "1.8.7",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.twitch/1.8.7/com.elgato.twitch.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.applemusic",
+        "name": "Apple Music",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.applemusic/1.1/com.elgato.applemusic.streamDeckPlugin"
+    },
+    {
+        "id": "com.bi0s.mqtt",
+        "name": "MQTT",
+        "author": "Patrick Herting",
+        "link": "https://github.com/pherting/streamdeck-mqtt",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.bi0s.mqtt/1.3/com.bi0s.mqtt.streamDeckPlugin"
+    },
+    {
+        "id": "com.newtek.api",
+        "name": "NewTek",
+        "author": "NewTek",
+        "link": "https://www.newtek.com/",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.newtek.api/1.3/com.newtek.api.streamDeckPlugin"
+    },
+    {
+        "id": "com.dddice.app",
+        "name": "dddice",
+        "author": "dddice",
+        "link": "https://www.dddice.com/",
+        "version": "0.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dddice.app/0.2.0/com.dddice.app.streamDeckPlugin"
+    },
+    {
+        "id": "com.fsoft.nanoleaf",
+        "name": "Nanoleaf Tiles",
+        "author": "fSoft Ltd.",
+        "link": "https://github.com/GaryFunk/Nanoleaf-Tiles/blob/main/README.md",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.fsoft.nanoleaf/1.3/com.fsoft.nanoleaf.streamDeckPlugin"
+    },
+    {
+        "id": "app.liveedit.liveosc",
+        "name": "LiveEdit",
+        "author": "The LiveEdit Team",
+        "link": "https://www.liveedit.app",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/app.liveedit.liveosc/1.2.0/app.liveedit.liveosc.streamDeckPlugin"
+    },
+    {
+        "id": "com.nuagic.myip",
+        "name": "My IP",
+        "author": "Nuagic",
+        "link": "https://github.com/Nuagic/streamdeck-myip",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nuagic.myip/1.3/com.nuagic.myip.streamDeckPlugin"
+    },
+    {
+        "id": "com.pedropombeiro.streamdeck-busylight",
+        "name": "Kuando Busylight",
+        "author": "Pedro Pombeiro",
+        "link": "https://gitlab.com/pedropombeiro/streamdeck-busylight",
+        "version": "1.0.58",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.pedropombeiro.streamdeck-busylight/1.0.58/com.pedropombeiro.st.streamDeckPlugin"
+    },
+    {
+        "id": "io.streamtimer",
+        "name": "GhostlyTuna's Stream Timer Controls",
+        "author": "GhostlyTuna",
+        "link": "https://streamtimer.io",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.streamtimer/1.0/io.streamtimer.streamDeckPlugin"
+    },
+    {
+        "id": "com.dixper",
+        "name": "Dixper",
+        "author": "Dixper",
+        "link": "https://dixper.gg",
+        "version": "1.0.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dixper/1.0.6/com.dixper.streamDeckPlugin"
+    },
+    {
+        "id": "com.streamloots",
+        "name": "Streamloots",
+        "author": "Streamloots",
+        "link": "https://www.streamloots.com",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.streamloots/1.2.0/com.streamloots.streamDeckPlugin"
+    },
+    {
+        "id": "com.courcelle.reminder",
+        "name": "Reminder",
+        "author": "Vincent Courcelle",
+        "link": "https://github.com/tubededentifrice/streamdeck-reminder",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.courcelle.reminder/1.0.0/com.courcelle.reminder.streamDeckPlugin"
+    },
+    {
+        "id": "com.corcules.kmlink",
+        "name": "KMLink",
+        "author": "Corcules",
+        "link": "https://www.corcules.com",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.corcules.kmlink/1.5/com.corcules.kmlink.streamDeckPlugin"
+    },
+    {
+        "id": "in.std.streamdeck.workplace",
+        "name": "Facebook Workplace",
+        "author": "pgriess",
+        "link": "https://github.com/pgriess/streamdeck-workrooms/wiki",
+        "version": "2.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/in.std.streamdeck.workplace/2.0.2/in.std.streamdeck.workplace.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.magicaleightball",
+        "name": "Magical Eight Ball",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/magical-eight-ball",
+        "version": "2.0.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.magicaleightball/2.0.4/com.krabs.magicaleightball.streamDeckPlugin"
+    },
+    {
+        "id": "com.kiswe.studio",
+        "name": "Kiswe Studio",
+        "author": "Kiswe",
+        "link": "https://kiswestudio.zendesk.com/hc/en-us/articles/13915453588375-Use-the-streamdeck",
+        "version": "2.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.kiswe.studio/2.0.0/com.kiswe.studio.streamDeckPlugin"
+    },
+    {
+        "id": "com.faithlife.proclaim",
+        "name": "Faithlife Proclaim",
+        "author": "Faithlife LLC",
+        "link": "https://faithlife.com",
+        "version": "0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.faithlife.proclaim/0.2/com.faithlife.proclaim.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.facecam",
+        "name": "Elgato Facecam",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.facecam/1.0/com.barraider.facecam.streamDeckPlugin"
+    },
+    {
+        "id": "io.streamhydra.execut",
+        "name": "StreamHydra",
+        "author": "Stream Hydra",
+        "link": "https://streamhydra.io",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.streamhydra.execut/1.0/io.streamhydra.execut.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.timestamp",
+        "name": "Timestamp",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/en/gaming/stream-deck",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.timestamp/1.0/com.elgato.timestamp.streamDeckPlugin"
+    },
+    {
+        "id": "dev.aperez.tado",
+        "name": "Tado",
+        "author": "aperez",
+        "link": "https://github.com/aperezm85/streamdeck-tado-plugin",
+        "version": "2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.aperez.tado/2.0/dev.aperez.tado.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.outlookinstantmail",
+        "name": "Outlook Instant Mail",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.outlookinstantmail/1.1/com.vivremotion.outlookinst.streamDeckPlugin"
+    },
+    {
+        "id": "us.johnholbrook.pihole",
+        "name": "Pihole",
+        "author": "John Holbrook",
+        "link": "https://github.com/johnholbrook/streamdeck-pihole",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/us.johnholbrook.pihole/1.2.0/us.johnholbrook.pihole.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.tts",
+        "name": "TextToSpeech",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.tts/1.1/com.barraider.tts.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.discordmemberstatus",
+        "name": "Discord Member Status",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/discord-member-status/",
+        "version": "1.1.10",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.discordmemberstatus/1.1.10/com.krabs.discordmemberstatus.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.windowsshutdownmenu",
+        "name": "Windows Shutdown Menu",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/",
+        "version": "1.0.20",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.windowsshutdownmenu/1.0.20/com.krabs.windowsshutdownmenu.streamDeckPlugin"
+    },
+    {
+        "id": "net.oksala.azuredevops",
+        "name": "AzureDevOps",
+        "author": "Panu Oksala",
+        "link": "https://github.com/panuoksala/streamdeck-azuredevops-plugin",
+        "version": "1.4.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.oksala.azuredevops/1.4.0/net.oksala.azuredevops.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.discordmembercount",
+        "name": "Discord Member Count",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/discord-member-count/",
+        "version": "1.0.31",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.discordmembercount/1.0.31/com.krabs.discordmembercount.streamDeckPlugin"
+    },
+    {
+        "id": "tv.aitum.sdplugin",
+        "name": "Aitum TV",
+        "author": "Aitum LTD",
+        "link": "https://aitum.tv",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/tv.aitum.sdplugin/1.1.0/tv.aitum.sdplugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.daysuntil",
+        "name": "Days Until",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/days-until",
+        "version": "1.0.26",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.daysuntil/1.0.26/com.krabs.daysuntil.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.time",
+        "name": "Time",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/time",
+        "version": "1.1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.time/1.1.8/com.krabs.time.streamDeckPlugin"
+    },
+    {
+        "id": "com.morphclue.wakatime",
+        "name": "Wakatime",
+        "author": "Morphclue",
+        "link": "https://github.com/Morphclue/streamdeck-wakatime",
+        "version": "1.0.11",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.morphclue.wakatime/1.0.11/com.morphclue.wakatime.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.gameactiontimer",
+        "name": "Game Action Timer",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/game-action-timer",
+        "version": "1.0.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.gameactiontimer/1.0.5/com.krabs.gameactiontimer.streamDeckPlugin"
+    },
+    {
+        "id": "gg.datagram.web-requests",
+        "name": "Web Requests",
+        "author": "Adrian Mullings",
+        "link": "https://github.com/data-enabler/streamdeck-web-requests",
+        "version": "0.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/gg.datagram.web-requests/0.1.0/gg.datagram.web-requests.streamDeckPlugin"
+    },
+    {
+        "id": "com.sentinelite.streamdeckshortcuts",
+        "name": "Shortcuts",
+        "author": "SENTINELITE",
+        "link": "https://github.com/SENTINELITE/StreamDeck-Shortcuts",
+        "version": "1.0.7.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.sentinelite.streamdeckshortcuts/1.0.7.1/com.sentinelite.stream.streamDeckPlugin"
+    },
+    {
+        "id": "com.softouch.easyworship",
+        "name": "EasyWorship",
+        "author": "Softouch Development, Inc.",
+        "link": "https://easyworship.com",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.softouch.easyworship/1.0.0/com.softouch.easyworship.streamDeckPlugin"
+    },
+    {
+        "id": "com.philipgerke.awake",
+        "name": "Awake",
+        "author": "Ingenieurbüro Philip Gerke",
+        "link": "https://github.com/pgerke/streamdeck-awake",
+        "version": "2.1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.philipgerke.awake/2.1.1/com.philipgerke.awake.streamDeckPlugin"
+    },
+    {
+        "id": "com.pulsoid",
+        "name": "Pulsoid",
+        "author": "Pulsoid",
+        "link": "https://pulsoid.net",
+        "version": "1.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.pulsoid/1.6/com.pulsoid.streamDeckPlugin"
+    },
+    {
+        "id": "de.firesplash.sdplugins.fflgame",
+        "name": "Fantasy Fight LIVE Controls",
+        "author": "Firesplash Entertainment",
+        "link": "https://firesplash.tv/fflgame/",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.firesplash.sdplugins.fflgame/1.0/de.firesplash.sdplugins.fflgam.streamDeckPlugin"
+    },
+    {
+        "id": "org.danielkennett.xcode-streamdeck-plugin",
+        "name": "Xcode",
+        "author": "Daniel Kennett",
+        "link": "https://github.com/iKenndac/xcode-streamdeck-plugin",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/org.danielkennett.xcode-streamdeck-plugin/1.0.1/org.danielkennett..streamDeckPlugin"
+    },
+    {
+        "id": "com.f00d4tehg0dz.teslafi",
+        "name": "TeslaFi",
+        "author": "f00d4tehg0dz",
+        "link": "https://github.com/f00d4tehg0dz/Teslafi-Status-Plugin-for-Eglato-Streamdeck",
+        "version": "2.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.f00d4tehg0dz.teslafi/2.4/com.f00d4tehg0dz.teslafi.streamDeckPlugin"
+    },
+    {
+        "id": "pl.spooksoft.switchto",
+        "name": "SwitchTo",
+        "author": "Wojciech Sura",
+        "link": null,
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/pl.spooksoft.switchto/1.1/pl.spooksoft.switchto.streamDeckPlugin"
+    },
+    {
+        "id": "rocks.pretzel.play",
+        "name": "Pretzel Rocks",
+        "author": "Songtradr",
+        "link": "https://pretzel.rocks/?utm_source=elgato&utm_medium=plugin",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/rocks.pretzel.play/1.0.0/rocks.pretzel.play.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.edelkrone-motion-control",
+        "name": "edelkrone Motion Control",
+        "author": "edelkrone",
+        "link": "https://edelkrone.com/products/edelkrone-link-adapter",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.edelkrone-motion-control/1.0.1/com.elgato.edelkrone-mot.streamDeckPlugin"
+    },
+    {
+        "id": "com.ascend.japanesereviews",
+        "name": "Japanese Reviews",
+        "author": "Ascend - Will Eddins",
+        "link": "https://github.com/ascendedguard/streamdeck-japanesereviews",
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.ascend.japanesereviews/1.0.2/com.ascend.japanesereviews.streamDeckPlugin"
+    },
+    {
+        "id": "com.adrian-miasik.sdpdota2",
+        "name": "SDP - Dota 2",
+        "author": "Adrian Miasik",
+        "link": "https://www.adrian-miasik.com",
+        "version": "1.3.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.adrian-miasik.sdpdota2/1.3.1/com.adrian-miasik.sdpdota2.streamDeckPlugin"
+    },
+    {
+        "id": "bot.streamer.streamdeck",
+        "name": "Streamer.Bot",
+        "author": "Streamer.bot",
+        "link": "https://streamdeck.streamer.bot",
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/bot.streamer.streamdeck/1.0.2/bot.streamer.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.clockworks",
+        "name": "Clockworks",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/clockworks",
+        "version": "1.0.11",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.clockworks/1.0.11/com.krabs.clockworks.streamDeckPlugin"
+    },
+    {
+        "id": "com.komordzsi.tarkovtime",
+        "name": "Tarkov Time",
+        "author": "komordzsi",
+        "link": "https://tarkov-time.adam.id.au",
+        "version": "1.0.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.komordzsi.tarkovtime/1.0.4/com.komordzsi.tarkovtime.streamDeckPlugin"
+    },
+    {
+        "id": "us.johnholbrook.vextm",
+        "name": "VEX Tournament Manager",
+        "author": "John Holbrook",
+        "link": "https://vextm.dwabtech.com",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/us.johnholbrook.vextm/1.2.0/us.johnholbrook.vextm.streamDeckPlugin"
+    },
+    {
+        "id": "com.gallowaylabs.tomato",
+        "name": "Tomato Timer",
+        "author": "Galloway Labs",
+        "link": "https://github.com/gallowaylabs/streamdeck-tomato-timer",
+        "version": "0.6.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.gallowaylabs.tomato/0.6.0/com.gallowaylabs.tomato.streamDeckPlugin"
+    },
+    {
+        "id": "com.renewedvision.propresenter",
+        "name": "ProPresenter",
+        "author": "Renewed Vision",
+        "link": "https://renewedvision.com",
+        "version": "2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.renewedvision.propresenter/2.0/com.renewedvision.propresenter.streamDeckPlugin"
+    },
+    {
+        "id": "com.javanpoirier.audiomixer",
+        "name": "Audio Mixer",
+        "author": "Javan Poirier",
+        "link": "https://github.com/JavanPoirier/AudioMixer",
+        "version": "1.3.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.javanpoirier.audiomixer/1.3.1/com.javanpoirier.audiomixer.streamDeckPlugin"
+    },
+    {
+        "id": "com.fiercekittenz.gifbot",
+        "name": "GIFBot Stream Deck",
+        "author": "Fierce Kitten Studio",
+        "link": null,
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.fiercekittenz.gifbot/1.0/com.fiercekittenz.gifbot.streamDeckPlugin"
+    },
+    {
+        "id": "com.buzzet.azurepipeline",
+        "name": "Azure Pipeline",
+        "author": "Jannik Reinefeld",
+        "link": null,
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.buzzet.azurepipeline/1.1/com.buzzet.azurepipeline.streamDeckPlugin"
+    },
+    {
+        "id": "nl.nwrp.gms",
+        "name": "NowayRoleplay Status Update",
+        "author": "NowayRoleplay",
+        "link": "https://nowayroleplay.nl/",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/nl.nwrp.gms/1.0.1/nl.nwrp.gms.streamDeckPlugin"
+    },
+    {
+        "id": "com.geekyeggo.goveecontroller",
+        "name": "Govee Controller",
+        "author": "GeekyEggo",
+        "link": "https://github.com/GeekyEggo/GoveeController",
+        "version": "1.2.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.geekyeggo.goveecontroller/1.2.3/com.geekyeggo.goveecontroller.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.twitchwatcher",
+        "name": "Twitch Watcher",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/twitch-watcher",
+        "version": "1.0.10",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.twitchwatcher/1.0.10/com.krabs.twitchwatcher.streamDeckPlugin"
+    },
+    {
+        "id": "com.polypoplive",
+        "name": "PolyPop",
+        "author": "Simmetri, Inc.",
+        "link": "https://www.polypoplive.com",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.polypoplive/1.2/com.polypoplive.streamDeckPlugin"
+    },
+    {
+        "id": "com.stephaneturquay.gateio.tracker",
+        "name": "Gate.io - Portfolio tracker",
+        "author": "Stéphane Turquay",
+        "link": "https://github.com/StephaneTurquay/streamdeck-gateio",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.stephaneturquay.gateio.tracker/1.1/com.stephaneturquay.gateio..streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.windowscockpit",
+        "name": "Windows Cockpit",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/windowscockpit",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.windowscockpit/1.5/com.vivremotion.windowscockpit.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.windowsgizmos",
+        "name": "Windows Gizmos",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/windows-gizmos",
+        "version": "1.0.52",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.windowsgizmos/1.0.52/com.krabs.windowsgizmos.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.discordmessenger",
+        "name": "Discord Messenger",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/discord-messenger",
+        "version": "1.0.21",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.discordmessenger/1.0.21/com.krabs.discordmessenger.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.discord",
+        "name": "Discord",
+        "author": "Elgato",
+        "link": "https://elgato.com/",
+        "version": "2.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.discord/2.0.0/com.elgato.discord.streamDeckPlugin"
+    },
+    {
+        "id": "com.tchelicon.goxlr",
+        "name": "GoXLR Plugin",
+        "author": "TC Helicon",
+        "link": "https://www.tc-helicon.com/",
+        "version": "0.18",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.tchelicon.goxlr/0.18/com.tchelicon.goxlr.streamDeckPlugin"
+    },
+    {
+        "id": "com.start-automating.windowsscriptdeck",
+        "name": "Windows ScriptDeck",
+        "author": "Start-Automating",
+        "link": "https://github.com/StartAutomating/ScriptDeck",
+        "version": "0.4.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.start-automating.windowsscriptdeck/0.4.6/com.start-automating..streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.phantommouse",
+        "name": "Phantom Mouse",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/phantommouse",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.phantommouse/1.3/com.vivremotion.phantommouse.streamDeckPlugin"
+    },
+    {
+        "id": "com.sergeytihon.homebridge",
+        "name": "Homebridge",
+        "author": "Sergey Tihon",
+        "link": "https://github.com/sergey-tihon/streamdeck-homebridge",
+        "version": "1.4.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.sergeytihon.homebridge/1.4.0/com.sergeytihon.homebridge.streamDeckPlugin"
+    },
+    {
+        "id": "com.overlayon.plugin",
+        "name": "OverlayOn",
+        "author": "OverlayOn",
+        "link": "https://overlayon.com",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.overlayon.plugin/1.1.0/com.overlayon.plugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.newblue.vividcast",
+        "name": "NewBlue VividCast",
+        "author": "NewBlue",
+        "link": "https://newbluefx.com/",
+        "version": "1.4.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.newblue.vividcast/1.4.0/com.newblue.vividcast.streamDeckPlugin"
+    },
+    {
+        "id": "com.owenbush.streamdeck.noko",
+        "name": "Noko",
+        "author": "Owen Bush",
+        "link": "https://github.com/owenbush/streamdeck-noko",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.owenbush.streamdeck.noko/1.0.0/com.owenbush.streamdeck.noko.streamDeckPlugin"
+    },
+    {
+        "id": "de.itxware.iracing",
+        "name": "iRaceIT",
+        "author": "Günter Denz",
+        "link": "http://iraceit.itxware.de/",
+        "version": "1.15.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.itxware.iracing/1.15.3/de.itxware.iracing.streamDeckPlugin"
+    },
+    {
+        "id": "fr.twitchat",
+        "name": "Twitchat",
+        "author": "Durss",
+        "link": "https://twitchat.fr",
+        "version": "2.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/fr.twitchat/2.5/fr.twitchat.streamDeckPlugin"
+    },
+    {
+        "id": "de.perdoctus.streamdeck.homeassistant",
+        "name": "Home Assistant",
+        "author": "Christoph Giesche",
+        "link": "https://github.com/cgiesche/streamdeck-homeassistant#configuration",
+        "version": "2.3.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.perdoctus.streamdeck.homeassistant/2.3.1/de.perdoctus.streamdec.streamDeckPlugin"
+    },
+    {
+        "id": "io.streamroll.controller",
+        "name": "Streamroll.io Controller",
+        "author": "GhostlyTuna",
+        "link": "https://streamroll.io",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.streamroll.controller/1.1/io.streamroll.controller.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.powerpoint",
+        "name": "PowerPoint",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/gaming/stream-deck",
+        "version": "1.2.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.powerpoint/1.2.2/com.elgato.powerpoint.streamDeckPlugin"
+    },
+    {
+        "id": "com.geekyeggo.sounddeck",
+        "name": "Sound Deck",
+        "author": "GeekyEggo",
+        "link": "https://github.com/GeekyEggo/SoundDeck",
+        "version": "3.7.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.geekyeggo.sounddeck/3.7.2/com.geekyeggo.sounddeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.flowics.graphics",
+        "name": "Flowics Graphics",
+        "author": "Flowics",
+        "link": "https://www.flowics.com/graphics/",
+        "version": "0.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.flowics.graphics/0.1.0/com.flowics.graphics.streamDeckPlugin"
+    },
+    {
+        "id": "com.github.mjbnz.sd-api-request",
+        "name": "API Request",
+        "author": "Mike Beattie",
+        "link": "https://github.com/mjbnz/streamdeck-api-request",
+        "version": "0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.github.mjbnz.sd-api-request/0.2/com.github.mjbnz.sd-api-reques.streamDeckPlugin"
+    },
+    {
+        "id": "com.chhtv.udts",
+        "name": "UDTS",
+        "author": "chhopsky.tv",
+        "link": "https://updatethestream.com/",
+        "version": "0.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.chhtv.udts/0.0.1/com.chhtv.udts.streamDeckPlugin"
+    },
+    {
+        "id": "com.alphalaneous.loquibot",
+        "name": "loquibot",
+        "author": "Alphalaneous",
+        "link": null,
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.alphalaneous.loquibot/1.2/com.alphalaneous.loquibot.streamDeckPlugin"
+    },
+    {
+        "id": "com.f00d4tehg0dz.cookieclicker",
+        "name": "CookieClicker",
+        "author": "f00d4tehg0dz",
+        "link": "https://github.com/f00d4tehg0dz/elgato-streamdeck-cookie-clicker",
+        "version": "3.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.f00d4tehg0dz.cookieclicker/3.6/com.f00d4tehg0dz.cookieclicker.streamDeckPlugin"
+    },
+    {
+        "id": "com.mongeon.mm",
+        "name": "MM.StreamDeck",
+        "author": "Gabriel Mongeon",
+        "link": "https://github.com/mongeon/MattermostAPI",
+        "version": "0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mongeon.mm/0.1/com.mongeon.mm.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.ipcamera",
+        "name": "Surveillance IP Camera",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.ipcamera/1.5/com.vivremotion.ipcamera.streamDeckPlugin"
+    },
+    {
+        "id": "com.hyperate.hyperate",
+        "name": "HypeRate",
+        "author": "Ian Chandler",
+        "link": "https://www.hyperate.io/",
+        "version": "2.5.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.hyperate.hyperate/2.5.2/com.hyperate.hyperate.streamDeckPlugin"
+    },
+    {
+        "id": "com.samhorne.mediamonkey5",
+        "name": "Mediamonkey 5",
+        "author": "Sam Horne",
+        "link": null,
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.samhorne.mediamonkey5/1.1.0/com.samhorne.mediamonkey5.streamDeckPlugin"
+    },
+    {
+        "id": "tech.aerove.streamdeck.nestcontrol",
+        "name": "Nest Control",
+        "author": "Aeroverra",
+        "link": null,
+        "version": "1.1.9",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/tech.aerove.streamdeck.nestcontrol/1.1.9/tech.aerove.streamdeck.ne.streamDeckPlugin"
+    },
+    {
+        "id": "net.ellreka.slack-status",
+        "name": "Slack Status",
+        "author": "ellreka",
+        "link": null,
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.ellreka.slack-status/1.0.2/net.ellreka.slack-status.streamDeckPlugin"
+    },
+    {
+        "id": "com.barraider.emojipicker",
+        "name": "Emoji Picker",
+        "author": "BarRaider",
+        "link": "https://barraider.com/",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.barraider.emojipicker/1.0/com.barraider.emojipicker.streamDeckPlugin"
+    },
+    {
+        "id": "com.funky.rokuremotejs",
+        "name": "Roku Remote",
+        "author": "Jasper Cools",
+        "link": "https://github.com/FUNKYJASPER2/StreamDeck-Roku-Remote-Plugin",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.funky.rokuremotejs/1.0/com.funky.rokuremotejs.streamDeckPlugin"
+    },
+    {
+        "id": "com.tobii.gaming.ghost",
+        "name": "Tobii Ghost",
+        "author": "Tobii AB",
+        "link": "https://gaming.tobii.com/for-creators/",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.tobii.gaming.ghost/1.0.0/com.tobii.gaming.ghost.streamDeckPlugin"
+    },
+    {
+        "id": "com.nagopy.streamdeck.tasktimer",
+        "name": "Task Timer",
+        "author": "75py",
+        "link": "https://github.com/75py/streamdeck-tasktimer",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nagopy.streamdeck.tasktimer/1.0.0/com.nagopy.streamdeck.taskti.streamDeckPlugin"
+    },
+    {
+        "id": "com.egg-rp.fxcommands",
+        "name": "FxCommands",
+        "author": "EggRP",
+        "link": "https://github.com/EggRP/fxcommands",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.egg-rp.fxcommands/1.1/com.egg-rp.fxcommands.streamDeckPlugin"
+    },
+    {
+        "id": "com.javitesoft.rustplusbot",
+        "name": "RustPlusBot",
+        "author": "JaviteSoft",
+        "link": "https://bot.rustplus.io/",
+        "version": "2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.javitesoft.rustplusbot/2.0/com.javitesoft.rustplusbot.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.wol",
+        "name": "Wake on LAN (WOL)",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/wol",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.wol/1.3/com.vivremotion.wol.streamDeckPlugin"
+    },
+    {
+        "id": "gg.efuse.clippy",
+        "name": "Sidekick",
+        "author": "eFuse",
+        "link": "https://efuse.gg/clippy",
+        "version": "1.1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/gg.efuse.clippy/1.1.3/gg.efuse.clippy.streamDeckPlugin"
+    },
+    {
+        "id": "com.neewer.livecenter",
+        "name": "NEEWER Live",
+        "author": "neewer",
+        "link": "https://neewer.com/pages/neewer-live-app",
+        "version": "1.9.1.000",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.neewer.livecenter/1.9.1.000/com.neewer.livecenter.streamDeckPlugin"
+    },
+    {
+        "id": "com.obsbot.webcam",
+        "name": "OBSBOT WebCam",
+        "author": "Remo Tech.",
+        "link": "https://www.obsbot.com",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.obsbot.webcam/1.2/com.obsbot.webcam.streamDeckPlugin"
+    },
+    {
+        "id": "com.nettai.cosmetickey",
+        "name": "Cosmetic Key",
+        "author": "Nettai",
+        "link": null,
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nettai.cosmetickey/1.0.0/com.nettai.cosmetickey.streamDeckPlugin"
+    },
+    {
+        "id": "com.arkyasmal.windowactions",
+        "name": "Window Actions",
+        "author": "Arky Asmal",
+        "link": "https://github.com/aasmal97/Window-Actions",
+        "version": "3.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.arkyasmal.windowactions/3.0.0/com.arkyasmal.windowactions.streamDeckPlugin"
+    },
+    {
+        "id": "com.start-automating.scriptdeck",
+        "name": "ScriptDeck",
+        "author": "Start-Automating",
+        "link": "https://github.com/StartAutomating/ScriptDeck",
+        "version": "0.4.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.start-automating.scriptdeck/0.4.6/com.start-automating.scriptd.streamDeckPlugin"
+    },
+    {
+        "id": "tv.quicklink.cre8studio",
+        "name": "Quicklink Cre8",
+        "author": "Quicklink Ltd.",
+        "link": "https://quicklink.tv",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/tv.quicklink.cre8studio/1.0.0/tv.quicklink.cre8studio.streamDeckPlugin"
+    },
+    {
+        "id": "com.github.guyb7.github-api-streamdeck-plugin",
+        "name": "GitHub API",
+        "author": "guyb7",
+        "link": "https://github.com/guyb7/github-api-streamdeck-plugin",
+        "version": "0.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.github.guyb7.github-api-streamdeck-plugin/0.1.0/com.github.guy.streamDeckPlugin"
+    },
+    {
+        "id": "co.weimeng.streamdeck-gitlab",
+        "name": "GitLab Dashboard",
+        "author": "Wei-Meng Lee",
+        "link": "https://gitlab.com/weimeng/streamdeck-gitlab",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/co.weimeng.streamdeck-gitlab/1.1/co.weimeng.streamdeck-gitlab.streamDeckPlugin"
+    },
+    {
+        "id": "com.falti.camooz",
+        "name": "CamooZ",
+        "author": "Falti",
+        "link": "https://www.camooz.de",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.falti.camooz/1.3/com.falti.camooz.streamDeckPlugin"
+    },
+    {
+        "id": "com.bzbgear.camera",
+        "name": "BZBGEAR Camera",
+        "author": "BZBGEAR",
+        "link": "https://bzbgear.com/",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.bzbgear.camera/1.0/com.bzbgear.camera.streamDeckPlugin"
+    },
+    {
+        "id": "com.dec04.github-ci",
+        "name": "Github CI",
+        "author": "Dec04",
+        "link": "https://github.com/dec04/com.dec04.github-ci.sdPlugin",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dec04.github-ci/1.0.1/com.dec04.github-ci.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.camerahub",
+        "name": "Camera Hub",
+        "author": "Elgato",
+        "link": "https://elgato.com/downloads",
+        "version": "1.3.0.247",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.camerahub/1.3.0.247/com.elgato.camerahub.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.wavelink",
+        "name": "Wave Link",
+        "author": "Elgato",
+        "link": "https://elgato.com/wave-3",
+        "version": "2.0.3.591",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.wavelink/2.0.3.591/com.elgato.wavelink.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.volume-controller",
+        "name": "Volume Controller",
+        "author": "Elgato",
+        "link": "https://e.lga.to/VolumeControllerOverview",
+        "version": "1.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.volume-controller/1.0.3/com.elgato.volume-controller.streamDeckPlugin"
+    },
+    {
+        "id": "photo.lostcause.captureone",
+        "name": "Capture One",
+        "author": "Emory Dunn",
+        "link": "https://lostcause.photo",
+        "version": "2023.1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/photo.lostcause.captureone/2023.1.3/photo.lostcause.captureone.streamDeckPlugin"
+    },
+    {
+        "id": "dev.cazzar.vtubestudio",
+        "name": "VTubeStudio",
+        "author": "Cazzar",
+        "link": "https://github.com/Cazzar/VTubeStudio-StreamDeck/wiki",
+        "version": "2.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.cazzar.vtubestudio/2.0.0/dev.cazzar.vtubestudio.streamDeckPlugin"
+    },
+    {
+        "id": "com.vmix.shortcuts",
+        "name": "vMix",
+        "author": "vMix",
+        "link": "https://www.vmix.com",
+        "version": "1.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vmix.shortcuts/1.4/com.vmix.shortcuts.streamDeckPlugin"
+    },
+    {
+        "id": "me.alhazmy13.sensibo",
+        "name": "Sensibo",
+        "author": "Alhazmy13",
+        "link": "https://github.com/alhazmy13/streamdeck-sensibo",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/me.alhazmy13.sensibo/1.1.0/me.alhazmy13.sensibo.streamDeckPlugin"
+    },
+    {
+        "id": "com.geekyeggo.windowsdisplaysettings",
+        "name": "Windows Display Settings",
+        "author": "GeekyEggo",
+        "link": "https://github.com/GeekyEggo/windows-display-settings",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.geekyeggo.windowsdisplaysettings/1.0.0/com.geekyeggo.windowsdi.streamDeckPlugin"
+    },
+    {
+        "id": "com.dim.streamdeck",
+        "name": "DIM Stream Deck",
+        "author": "Francesco Saverio Cannizzaro",
+        "link": "https://dimstreamdeck.vercel.app/",
+        "version": "2.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dim.streamdeck/2.0.3/com.dim.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.caratask.activity.prod",
+        "name": "CTMS Activity",
+        "author": "Cara",
+        "link": "https://task.cara.com.my",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.caratask.activity.prod/1.1.0/com.caratask.activity.prod.streamDeckPlugin"
+    },
+    {
+        "id": "com.mutedeck.plugin",
+        "name": "MuteDeck for Zoom, Teams, and more",
+        "author": "MuteDeck",
+        "link": "https://mutedeck.com/",
+        "version": "8.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mutedeck.plugin/8.0.0/com.mutedeck.plugin.streamDeckPlugin"
+    },
+    {
+        "id": "net.localhost.streamdeck.clipboard-buddy",
+        "name": "Clipboard slot",
+        "author": "Commit-La-Grenouille",
+        "link": "https://github.com/Commit-La-Grenouille/streamdeck-clipboard-buddy",
+        "version": "0.7.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.localhost.streamdeck.clipboard-buddy/0.7.0/net.localhost.strea.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.clocks",
+        "name": "Clocks",
+        "author": "Elgato",
+        "link": "https://www.elgato.com/",
+        "version": "0.9.2.38",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.clocks/0.9.2.38/com.elgato.clocks.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.vbamacroexecute",
+        "name": "VBA Macro Execute",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.vbamacroexecute/1.5/com.vivremotion.vbamacroexecut.streamDeckPlugin"
+    },
+    {
+        "id": "com.welshtroll.preflightchecklist",
+        "name": "Preflight Checklist",
+        "author": "welshtroll",
+        "link": "https://welshtroll.co.uk/sd/",
+        "version": "0.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.welshtroll.preflightchecklist/0.2.0/com.welshtroll.preflightch.streamDeckPlugin"
+    },
+    {
+        "id": "com.jetbrains.youtrack",
+        "name": "YouTrack Ticket Counter",
+        "author": "Konstantin Annikov",
+        "link": "https://github.com/JetBrains/youtrack-streamdeck-plugin",
+        "version": "1.0.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.jetbrains.youtrack/1.0.6/com.jetbrains.youtrack.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.mousesimulator",
+        "name": "Mouse Simulator",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/mousesimulator",
+        "version": "1.6",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.mousesimulator/1.6/com.vivremotion.mousesimulator.streamDeckPlugin"
+    },
+    {
+        "id": "me.reinii.harvest-billables",
+        "name": "Billables Status",
+        "author": "Emma Litwa-Vulcu",
+        "link": "https://github.com/reiniiriarios/stream-deck-billables-harvest/",
+        "version": "0.5.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/me.reinii.harvest-billables/0.5.1/me.reinii.harvest-billables.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.standbyscreen",
+        "name": "Standby Screen",
+        "author": "VIVRE-MOTION",
+        "link": null,
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.standbyscreen/1.2/com.vivremotion.standbyscreen.streamDeckPlugin"
+    },
+    {
+        "id": "com.richardplucker.pvp",
+        "name": "PVP",
+        "author": "Richard Plucker",
+        "link": "https://github.com/rplucker/streamdeckpvp",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.richardplucker.pvp/1.0/com.richardplucker.pvp.streamDeckPlugin"
+    },
+    {
+        "id": "warudo.streamdeck",
+        "name": "Warudo",
+        "author": "Hakuya Labs",
+        "link": "https://warudo.app",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/warudo.streamdeck/1.0.0/warudo.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.kobaltz.wled",
+        "name": "WLED",
+        "author": "Dave Kimura",
+        "link": "https://github.com/kobaltz/streamdeck-wled",
+        "version": "1.0.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.kobaltz.wled/1.0.5/com.kobaltz.wled.streamDeckPlugin"
+    },
+    {
+        "id": "com.sobolevn.bluetooth",
+        "name": "Bluetooth Switcher",
+        "author": "Nikita Sobolev",
+        "link": "https://github.com/sobolevn/bluetooth-streamdeck-plugin",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.sobolevn.bluetooth/1.1.0/com.sobolevn.bluetooth.streamDeckPlugin"
+    },
+    {
+        "id": "io.predictionbuttons",
+        "name": "Prediction Buttons",
+        "author": "GhostlyTuna",
+        "link": "https://github.com/ScottMellors/",
+        "version": "1.5.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.predictionbuttons/1.5.4/io.predictionbuttons.streamDeckPlugin"
+    },
+    {
+        "id": "de.leonmarcel.teamspeak5",
+        "name": "TeamSpeak 5",
+        "author": "LeonMarcel",
+        "link": "https://github.com/LeonMarcel-HD/StreamDeck-TeamSpeak5",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.leonmarcel.teamspeak5/1.0.0/de.leonmarcel.teamspeak5.streamDeckPlugin"
+    },
+    {
+        "id": "me.rumkee.bluetooth.monitor",
+        "name": "Bluetooth Monitor",
+        "author": "James Rumkee",
+        "link": "https://github.com/Rumkee/StreamDeckBluetoothMonitor",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/me.rumkee.bluetooth.monitor/1.0.0/me.rumkee.bluetooth.monitor.streamDeckPlugin"
+    },
+    {
+        "id": "com.f00d4tehg0dz.aipaints",
+        "name": "AI Paints",
+        "author": "f00d4tehg0dz",
+        "link": "https://github.com/f00d4tehg0dz/elgato-streamdeck-ai-paints",
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.f00d4tehg0dz.aipaints/1.0.2/com.f00d4tehg0dz.aipaints.streamDeckPlugin"
+    },
+    {
+        "id": "studio.mods.streamdeck.ms2.b",
+        "name": "Mods Studio 2",
+        "author": "Roadside Studio",
+        "link": "https://www.mods.studio/stream-deck/installation",
+        "version": "4.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/studio.mods.streamdeck.ms2.b/4.0/studio.mods.streamdeck.ms2.b.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.onscreendisplaytools",
+        "name": "On Screen Display Tools",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/",
+        "version": "1.0.24",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.onscreendisplaytools/1.0.24/com.krabs.onscreendisplaytoo.streamDeckPlugin"
+    },
+    {
+        "id": "com.sdn.homey",
+        "name": "Homey Integration",
+        "author": "Thomas Hebendanz",
+        "link": "https://community.athom.com/t/elgato-streamdeck-integration/27393",
+        "version": "1.9.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.sdn.homey/1.9.0/com.sdn.homey.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.huddisplay",
+        "name": "Head-up-Display",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/huddisplay",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.huddisplay/1.1/com.vivremotion.huddisplay.streamDeckPlugin"
+    },
+    {
+        "id": "com.k1dbo.deck-master-6000",
+        "name": "Deck Master 6000",
+        "author": "K1DBO",
+        "link": "https://github.com/K1DBO/deck-master-6000",
+        "version": "1.0.4.14",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.k1dbo.deck-master-6000/1.0.4.14/com.k1dbo.deck-master-6000.streamDeckPlugin"
+    },
+    {
+        "id": "app.kickbot.kickbot",
+        "name": "KickBot",
+        "author": "KickBot",
+        "link": "https://docs.kickbot.app/dashboard/stream-deck/setup",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/app.kickbot.kickbot/1.1.0/app.kickbot.kickbot.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.matrixdisplay",
+        "name": "Matrix Display",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.matrixdisplay/1.2/com.vivremotion.matrixdisplay.streamDeckPlugin"
+    },
+    {
+        "id": "com.triggercmd.trigger",
+        "name": "TRIGGERcmd",
+        "author": "TRIGGERcmd",
+        "link": "https://triggercmd.com",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.triggercmd.trigger/1.0.1/com.triggercmd.trigger.streamDeckPlugin"
+    },
+    {
+        "id": "pro.own3d.streamdeck",
+        "name": "OWN3D Pro",
+        "author": "OWN3D",
+        "link": "https://www.own3d.pro",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/pro.own3d.streamdeck/1.0.0/pro.own3d.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.gingeraudio.room",
+        "name": "ROOM",
+        "author": "Ginger Audio",
+        "link": "https://www.gingeraudio.com",
+        "version": "1.0.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.gingeraudio.room/1.0.2/com.gingeraudio.room.streamDeckPlugin"
+    },
+    {
+        "id": "com.gingeraudio.sphere",
+        "name": "SPHERE",
+        "author": "Ginger Audio",
+        "link": "https://www.gingeraudio.com",
+        "version": "1.0.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.gingeraudio.sphere/1.0.4/com.gingeraudio.sphere.streamDeckPlugin"
+    },
+    {
+        "id": "com.appgineering.atvo",
+        "name": "ATVO Hotkeys",
+        "author": "Appgineering GbR",
+        "link": "https://appgineering.com",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.appgineering.atvo/1.1.0/com.appgineering.atvo.streamDeckPlugin"
+    },
+    {
+        "id": "com.thejoeiaut.bitwarden",
+        "name": "Bitwarden Tools",
+        "author": "TheJoeIaut",
+        "link": "https://github.com/TheJoeIaut/Bitwarden-Streamdeck-Plugin",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.thejoeiaut.bitwarden/1.0/com.thejoeiaut.bitwarden.streamDeckPlugin"
+    },
+    {
+        "id": "com.nefrit.telegram",
+        "name": "Telegram Stats Tracker",
+        "author": "ArtemNeFRiT",
+        "link": "https://github.com/ArtemNeFRiT/elgato-telegram-statistics",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nefrit.telegram/1.0.0/com.nefrit.telegram.streamDeckPlugin"
+    },
+    {
+        "id": "net.kystar.kommander",
+        "name": "kommander",
+        "author": "kommander",
+        "link": "http://www.kommander.com.cn/en/",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/net.kystar.kommander/1.2/net.kystar.kommander.streamDeckPlugin"
+    },
+    {
+        "id": "gg.rcv.league",
+        "name": "League Observer Tool",
+        "author": "RCVolus",
+        "link": "https://github.com/RCVolus/league-observer-tool-sdPlugin",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/gg.rcv.league/1.2.0/gg.rcv.league.streamDeckPlugin"
+    },
+    {
+        "id": "com.marlburrow.uptime-kuma",
+        "name": "Uptime Kuma",
+        "author": "Nicolas Varrot MarlburroW",
+        "link": "https://github.com/MarlBurroW/Streamdeck-Uptime-Kuma",
+        "version": "1.2.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.marlburrow.uptime-kuma/1.2.3/com.marlburrow.uptime-kuma.streamDeckPlugin"
+    },
+    {
+        "id": "com.tiktok.livestudio",
+        "name": "TikTok LIVE Studio",
+        "author": "TikTok LIVE Studio",
+        "link": "https://www.tiktok.com/studio/download",
+        "version": "0.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.tiktok.livestudio/0.0.1/com.tiktok.livestudio.streamDeckPlugin"
+    },
+    {
+        "id": "es.mspi.elgato.plugins.microsoft",
+        "name": "Microsoft 365 Actions",
+        "author": "Marcell Spies",
+        "link": "https://github.com/marcells/streamdeck-microsoft365",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/es.mspi.elgato.plugins.microsoft/1.0/es.mspi.elgato.plugins.micros.streamDeckPlugin"
+    },
+    {
+        "id": "com.mediabounds.streamdeck.jira",
+        "name": "Jira",
+        "author": "Daniel Pfeiffer",
+        "link": "https://github.com/mediabounds/streamdeck-jira",
+        "version": "1.3.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mediabounds.streamdeck.jira/1.3.0/com.mediabounds.streamdeck.j.streamDeckPlugin"
+    },
+    {
+        "id": "cz.danol.discordmixer",
+        "name": "Discord Volume Mixer",
+        "author": "Danol",
+        "link": "https://github.com/CZDanol/StreamDeck-DiscordVolumeMixer2",
+        "version": "2.0.1.7",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/cz.danol.discordmixer/2.0.1.7/cz.danol.discordmixer.streamDeckPlugin"
+    },
+    {
+        "id": "com.aximmetry",
+        "name": "Aximmetry Integration",
+        "author": "Aximmetry Technologies",
+        "link": "https://aximmetry.com/learn/broadcast-production-workflow/preparation-of-the-production-environment-phase-i/setting-up-inputs-outputs-for-virtual-production/external-controllers/using-elgato-stream-deck-to-control-a-scene/",
+        "version": "2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.aximmetry/2.0/com.aximmetry.streamDeckPlugin"
+    },
+    {
+        "id": "de.sven-wiegand.ultraschall",
+        "name": "Ultraschall (Alternative)",
+        "author": "Sven Wiegand",
+        "link": "https://github.com/svenwiegand/streamdeck-ultraschall",
+        "version": "2.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.sven-wiegand.ultraschall/2.1.0/de.sven-wiegand.ultraschall.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.autotranslate",
+        "name": "Auto Translate Engine",
+        "author": "VIVRE-MOTION",
+        "link": null,
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.autotranslate/1.5/com.vivremotion.autotranslate.streamDeckPlugin"
+    },
+    {
+        "id": "com.live-score-app.streamdeck",
+        "name": "Live Score Plugin",
+        "author": "Live Score GmbH",
+        "link": "https://www.live-score-app.com/",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.live-score-app.streamdeck/1.1/com.live-score-app.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "de.flexniko.bakkesmodcommands",
+        "name": "BakkesModCommands",
+        "author": "FlexNiko",
+        "link": "https://github.com/FlexXx1212/StreamDeckBakkesPlugin",
+        "version": "1.5",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/de.flexniko.bakkesmodcommands/1.5/de.flexniko.bakkesmodcommands.streamDeckPlugin"
+    },
+    {
+        "id": "com.microsoft.teams",
+        "name": "Microsoft Teams",
+        "author": "Microsoft",
+        "link": "https://www.microsoft.com/microsoft-teams",
+        "version": "2.0.27",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.microsoft.teams/2.0.27/com.microsoft.teams.streamDeckPlugin"
+    },
+    {
+        "id": "fr.arubinu42",
+        "name": "Arubinu42",
+        "author": "Alvin Pergens",
+        "link": "https://arubinu.github.io/Scripts-Manager",
+        "version": "2.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/fr.arubinu42/2.2.0/fr.arubinu42.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.mousespotlight",
+        "name": "Mouse Spotlight",
+        "author": "VIVRE-MOTION",
+        "link": null,
+        "version": "1.8",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.mousespotlight/1.8/com.vivremotion.mousespotlight.streamDeckPlugin"
+    },
+    {
+        "id": "games.boyne.godot",
+        "name": "Godot Utilities",
+        "author": "Boyne Games",
+        "link": "https://github.com/BoyneGames/streamdeck-godot-plugin",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/games.boyne.godot/1.0.0/games.boyne.godot.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.forcewindow",
+        "name": "Force Window onTop",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com/forcewindow",
+        "version": "1.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.forcewindow/1.3/com.vivremotion.forcewindow.streamDeckPlugin"
+    },
+    {
+        "id": "co.meldstudio.streamdeck",
+        "name": "Meld Studio",
+        "author": "Meld Studio, Inc.",
+        "link": "https://meldstudio.co/",
+        "version": "0.3.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/co.meldstudio.streamdeck/0.3.0/co.meldstudio.streamdeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.inet.cowork",
+        "name": "i-net CoWork",
+        "author": "i-net software",
+        "link": "https://www.inetsoftware.de/products/cowork",
+        "version": "1.2.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.inet.cowork/1.2.1/com.inet.cowork.streamDeckPlugin"
+    },
+    {
+        "id": "com.dms.streamdeck.github",
+        "name": "DMS Github Plugin",
+        "author": "Rafael Dohms",
+        "link": "https://github.com/rdohms/com.dms.streamdeck.github",
+        "version": "0.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dms.streamdeck.github/0.2.0/com.dms.streamdeck.github.streamDeckPlugin"
+    },
+    {
+        "id": "com.jetbrains.ide",
+        "name": "JetBrains IDE",
+        "author": "Jacky Liu",
+        "link": "https://github.com/JetBrains/intellij-streamdeck-plugin",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.jetbrains.ide/1.0.1/com.jetbrains.ide.streamDeckPlugin"
+    },
+    {
+        "id": "com.theverge.bubbledeck",
+        "name": "BubbleDeck",
+        "author": "Mitchell Clark",
+        "link": "https://www.theverge.com",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.theverge.bubbledeck/1.2/com.theverge.bubbledeck.streamDeckPlugin"
+    },
+    {
+        "id": "com.elgato.obsstudio",
+        "name": "OBS Studio",
+        "author": "Elgato",
+        "link": "https://help.elgato.com/hc/en-us/articles/360028239431--Elgato-Stream-Deck-OBS-Studio-Integration-",
+        "version": "2.2.4",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.elgato.obsstudio/2.2.4/com.elgato.obsstudio.streamDeckPlugin"
+    },
+    {
+        "id": "io.deckassistant.plugin",
+        "name": "AI DeckAssistant",
+        "author": "Martijn Smit",
+        "link": "https://deckassistant.io",
+        "version": "3.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/io.deckassistant.plugin/3.0.0/io.deckassistant.plugin.streamDeckPlugin"
+    },
+    {
+        "id": "com.f1-tools.mvf1",
+        "name": "MVF1",
+        "author": "F1-Tools",
+        "link": "https://github.com/f1-tools/MVF1-Streamdeck",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.f1-tools.mvf1/1.0.0/com.f1-tools.mvf1.streamDeckPlugin"
+    },
+    {
+        "id": "com.feydelight.serialirblaster",
+        "name": "Serial IR Blaster",
+        "author": "FeyDelight",
+        "link": "https://github.com/feydelight/IRDecoderAndBlaster",
+        "version": "1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.feydelight.serialirblaster/1.2/com.feydelight.serialirblaster.streamDeckPlugin"
+    },
+    {
+        "id": "com.soundsinsync.ediprompt",
+        "name": "Sounds In Sync",
+        "author": "Sounds In Sync",
+        "link": "https://soundsinsync.com/ediprompt",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.soundsinsync.ediprompt/1.0.0/com.soundsinsync.ediprompt.streamDeckPlugin"
+    },
+    {
+        "id": "com.mmattdonk.solrock",
+        "name": "Solrock TTS",
+        "author": "SocksTheWolf",
+        "link": "https://solrock.mmattdonk.com/",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.mmattdonk.solrock/1.0.1/com.mmattdonk.solrock.streamDeckPlugin"
+    },
+    {
+        "id": "dev.jduabe.obsideck",
+        "name": "Obsideck",
+        "author": "Jordan Duabe",
+        "link": "https://github.com/j4ckofalltrades/obsideck",
+        "version": "1.1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.jduabe.obsideck/1.1.0/dev.jduabe.obsideck.streamDeckPlugin"
+    },
+    {
+        "id": "com.streamfog.main",
+        "name": "AR Overlay",
+        "author": "Streamfog",
+        "link": "https://streamfog.com/",
+        "version": "0.1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.streamfog.main/0.1.1/com.streamfog.main.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.dynamicsearchisland",
+        "name": "Dynamic Search Island",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.dynamicsearchisland/1.1/com.vivremotion.dynamicsea.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.mousecontrol",
+        "name": "Mouse Control",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.mousecontrol/1.0/com.vivremotion.mousecontrol.streamDeckPlugin"
+    },
+    {
+        "id": "com.broadcastpix.panelbutton",
+        "name": "Broadcast Pix",
+        "author": "Broadcast Pix",
+        "link": "https://broadcastpix.com/stream-control-control/",
+        "version": "1.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.broadcastpix.panelbutton/1.0.0/com.broadcastpix.panelbutton.streamDeckPlugin"
+    },
+    {
+        "id": "com.gataquadrada.wftimers",
+        "name": "Warframe Timers",
+        "author": "GataQuadrada",
+        "link": "https://www.gata.dev",
+        "version": "0.0.3",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.gataquadrada.wftimers/0.0.3/com.gataquadrada.wftimers.streamDeckPlugin"
+    },
+    {
+        "id": "com.dlprows.focusvolumecontrol",
+        "name": "Focused Application Volume",
+        "author": "dlprows",
+        "link": "https://github.com/dlprows/FocusVolumeControl",
+        "version": "1.1.2",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dlprows.focusvolumecontrol/1.1.2/com.dlprows.focusvolumecontro.streamDeckPlugin"
+    },
+    {
+        "id": "com.dahnandpartners.cmcticker",
+        "name": "CoinMarketCap Ticker",
+        "author": "Florian Zevedei",
+        "link": "https://dahn.partners",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.dahnandpartners.cmcticker/1.2.0/com.dahnandpartners.cmcticker.streamDeckPlugin"
+    },
+    {
+        "id": "com.nefrit.youtube",
+        "name": "YouTube Stats Tracker",
+        "author": "ArtemNeFRiT",
+        "link": "https://github.com/ArtemNeFRiT/streamdeck-youtube-statistics#api-key",
+        "version": "1.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.nefrit.youtube/1.2.0/com.nefrit.youtube.streamDeckPlugin"
+    },
+    {
+        "id": "com.remote.ytmd",
+        "name": "YTMD Encoder Remote",
+        "author": "Levin Ng",
+        "link": "https://github.com/levindecaro/streamdeck-ytmd-remote",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.remote.ytmd/1.0.1/com.remote.ytmd.streamDeckPlugin"
+    },
+    {
+        "id": "com.billzbawb.signalrgb",
+        "name": "SignalRGB-Deck",
+        "author": "William Z. Bawb and BarRaider",
+        "link": "https://github.com/bill-z-bawb/SignalRGB-Deck",
+        "version": "1.0.7",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.billzbawb.signalrgb/1.0.7/com.billzbawb.signalrgb.streamDeckPlugin"
+    },
+    {
+        "id": "com.maagames.versus",
+        "name": "Versus",
+        "author": "maaGames",
+        "link": "https://obsproject.com/forum/resources/versus-%E2%93%87evolution-scoreboard.1339/",
+        "version": "2.3.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.maagames.versus/2.3.0/com.maagames.versus.streamDeckPlugin"
+    },
+    {
+        "id": "com.corsair.icue",
+        "name": "iCUE",
+        "author": "Corsair",
+        "link": "https://www.corsair.com/icue",
+        "version": "1.5.182",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.corsair.icue/1.5.182/com.corsair.icue.streamDeckPlugin"
+    },
+    {
+        "id": "dev.theca11.multiobs",
+        "name": "Multi OBS Controller",
+        "author": "the_ca11",
+        "link": "https://github.com/theca11/multi-obs-controller#readme",
+        "version": "0.2.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.theca11.multiobs/0.2.0/dev.theca11.multiobs.streamDeckPlugin"
+    },
+    {
+        "id": "com.neewer.controlcenter",
+        "name": "NEEWER Control",
+        "author": "neewer",
+        "link": "https://neewer.com/pages/neewer-live-app",
+        "version": "2.0.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.neewer.controlcenter/2.0.0/com.neewer.controlcenter.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.netiopdupowercontrol",
+        "name": "NETIO PDU Power Control",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.netiopdupowercontrol/1.0/com.vivremotion.netiopdup.streamDeckPlugin"
+    },
+    {
+        "id": "com.krabs.hdrtoggle",
+        "name": "HDR Toggle",
+        "author": "Krabs",
+        "link": "https://www.krabs.me/streamdeck-plugins/hdrtoggle",
+        "version": "1.0.9",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.krabs.hdrtoggle/1.0.9/com.krabs.hdrtoggle.streamDeckPlugin"
+    },
+    {
+        "id": "com.vivremotion.dropzone",
+        "name": "Drop Zone",
+        "author": "VIVRE-MOTION",
+        "link": "https://www.vivre-motion.com",
+        "version": "1.0",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/com.vivremotion.dropzone/1.0/com.vivremotion.dropzone.streamDeckPlugin"
+    },
+    {
+        "id": "dev.theca11.whack-a-mole",
+        "name": "Whack-A-Mole",
+        "author": "the_ca11",
+        "link": "https://github.com/theca11/whack-a-mole#readme",
+        "version": "1.0.1",
+        "download": "https://appstore.elgato.com/streamDeckPlugin/dev.theca11.whack-a-mole/1.0.1/dev.theca11.whack-a-mole.streamDeckPlugin"
+    }
+]
